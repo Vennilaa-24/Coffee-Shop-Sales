@@ -29,7 +29,16 @@ Welcome to the Coffee Shop Sales Analysis project repository. This project focus
      6. Plot sales trends over weekdays and hours for deeper insights.
      7. Calculate important KPIs such as total sales, no.of transactions and total quantity ordered.
      8. Overall review the visualization and apply domain knowledge to draw conclusions from a sales perspective.
-
+     
+# Conclusion
+     Sales Focus:
+          Morning(7am to 10am) - Increase staff and resouces to handle higher customer volume.
+          Coffee, Tea and Bakery - Prioritize these high selling categories with staff and marketing efforts.
+          Tuesdays, Saturdays and Sundays - Reduce staff and resources due to lower sales.
+     Product Analysis:
+          Focus on Coffee Beans and Branded items - Explore price adjustments or promotions to improve sales despite higher unit prices.
+     Overall Sales Growth:
+          Considering the steady increase in sales and transaction volume, optimize staff allocaton and marketing strategies for continued growth.
 
 
 
