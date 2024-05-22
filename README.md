@@ -1,16 +1,18 @@
 # Coffee-Shop-Sales
 Welcome to the Coffee Shop Sales Analysis project repository. This project focuses on analyzing  sales data from a coffee shop to derive insights into its business operations. The analysis was performed using Microsoft Excel, leveraging data processing and visualization techniques. Key findings, trends and actionable recommendations are detailed in the accompanying documents to support data-driven decision-making and  strategic planning.
- Tool for Analysis: Microsoft Excel
+
+✅Tool for Analysis: Microsoft Excel
+
 # Objective:
      The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
 # Recommended Analysis:
-     How do sales vary by day of the week and hour of the day?
-     Are there any peak times for sales activity?
-     What is the total sales revenue for each month?
-     How do sales vary across different store locations?
-     What is the average price/order per person? I have noted the text. Thank you for providing the details.
-     Which products are the best selling in terms of quantity and revenue?
-     How do sales vary by product category and type?
+     1. How do sales vary by day of the week and hour of the day?
+     2. Are there any peak times for sales activity?
+     3. What is the total sales revenue for each month?
+     4. How do sales vary across different store locations?
+     5. What is the average price/order per person? I have noted the text. Thank you for providing the details.
+     6. Which products are the best selling in terms of quantity and revenue?
+     7. How do sales vary by product category and type?
 
 # Implement  Skills: 
      Cleaning Data - Clean and extract data set
