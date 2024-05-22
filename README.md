@@ -1,2 +1,35 @@
 # Coffee-Shop-Sales
-This is my first repository.  This is about a Coffee shop sales Analysis using MS Excel.
+Welcome to the Coffee Shop Sales Analysis project repository. This project focuses on analyzing  sales data from a coffee shop to derive insights into its business operations. The analysis was performed using Microsoft Excel, leveraging data processing and visualization techniques. Key findings, trends and actionable recommendations are detailed in the accompanying documents to support data-driven decision-making and  strategic planning.
+ Tool for Analysis: Microsoft Excel
+# Objective:
+     The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
+# Recommended Analysis:
+     How do sales vary by day of the week and hour of the day?
+     Are there any peak times for sales activity?
+     What is the total sales revenue for each month?
+     How do sales vary across different store locations?
+     What is the average price/order per person? I have noted the text. Thank you for providing the details.
+     Which products are the best selling in terms of quantity and revenue?
+     How do sales vary by product category and type?
+
+# Implement  Skills: 
+     Cleaning Data - Clean and extract data set
+     Formatting - To make it easier to read, understand and Analyze
+     Using Pivot Tables to analyze data
+     Creating a Dashboard - To Visualize
+
+# Project Steps
+     1. Collect and Understand the Dataset
+     2. Determine Key Performance Indicators(KPIs) essential for business decision-making.
+     3. Inspect the data and clean and extract the insights.
+     4. Replace the missing category and check data types and null values.
+     5. Use Pivot tables and various charts to create different visualizations and analyze sales across different product categories, types and store locations.
+     6. Plot sales trends over weekdays and hours for deeper insights.
+     7. Calculate important KPIs such as total sales, no.of transactions and total quantity ordered.
+     8. Overall review the visualization and apply domain knowledge to draw conclusions from a sales perspective.
+
+
+
+
+
+     
