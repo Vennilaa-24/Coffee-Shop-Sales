@@ -15,10 +15,10 @@ Welcome to the Coffee Shop Sales Analysis project repository. This project focus
      7. How do sales vary by product category and type?
 
 # Implement  Skills: 
-     Cleaning Data - Clean and extract data set
-     Formatting - To make it easier to read, understand and Analyze
-     Using Pivot Tables to analyze data
-     Creating a Dashboard - To Visualize
+     🔸Cleaning Data - Clean and extract data set
+     🔸Formatting - To make it easier to read, understand and Analyze
+     🔸Using Pivot Tables to analyze data
+     🔸Creating a Dashboard - To Visualize
 
 # Project Steps
      1. Collect and Understand the Dataset
@@ -31,14 +31,16 @@ Welcome to the Coffee Shop Sales Analysis project repository. This project focus
      8. Overall review the visualization and apply domain knowledge to draw conclusions from a sales perspective.
      
 # Conclusion
-     Sales Focus:
-          Morning(7am to 10am) - Increase staff and resouces to handle higher customer volume.
-          Coffee, Tea and Bakery - Prioritize these high selling categories with staff and marketing efforts.
-          Tuesdays, Saturdays and Sundays - Reduce staff and resources due to lower sales.
-     Product Analysis:
-          Focus on Coffee Beans and Branded items - Explore price adjustments or promotions to improve sales despite higher unit prices.
-     Overall Sales Growth:
-          Considering the steady increase in sales and transaction volume, optimize staff allocaton and marketing strategies for continued growth.
+     ✅Sales Focus:
+          🔸Morning(7am to 10am) - Increase staff and resouces to handle higher customer volume.
+          🔸Coffee, Tea and Bakery - Prioritize these high selling categories with staff and marketing efforts.
+          🔸Tuesdays, Saturdays and Sundays - Reduce staff and resources due to lower sales. 
+
+     ✅Product Analysis:
+          🔸Focus on Coffee Beans and Branded items - Explore price adjustments or promotions to improve sales despite higher unit prices.
+
+     ✅Overall Sales Growth:
+          🔸Considering the steady increase in sales and transaction volume, optimize staff allocaton and marketing strategies for continued growth.
 
 
 
